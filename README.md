@@ -1,4 +1,4 @@
-<img width="1892" height="941" alt="landing" src="[https://raw.githubusercontent.com/jude1337/ruzi-live/refs/heads/main/ruzi-live-landing.png" />
+<img width="1892" height="941" alt="landing" src="https://raw.githubusercontent.com/jude1337/ruzi-live/refs/heads/main/ruzi-live-landing.png" />
 
 <p align="center">
   <a href="https://ruzi.live/">
